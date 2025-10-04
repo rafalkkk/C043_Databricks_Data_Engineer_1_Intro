@@ -1,0 +1,6 @@
+order_id,product,region,amount,currency
+1001,Smartphone,Europe,599,EUR
+1002,Laptop,North America,999,USD
+1003,Tablet,Asia,399,USD
+1004,Smartwatch,Europe,199,EUR
+1005,Laptop,Asia,899,USD
